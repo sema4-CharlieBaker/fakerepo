@@ -1,2 +1,3 @@
 some other text
 foo
+adding some lines of text here
