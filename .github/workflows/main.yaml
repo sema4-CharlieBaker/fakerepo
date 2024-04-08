@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - run: sleep 30 && echo "Hello World"
+    - run: sleep 1 && echo "Hello World"
